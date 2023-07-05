@@ -1,2 +1,2 @@
-#H1 Git and Github
+# Git and Github
 
